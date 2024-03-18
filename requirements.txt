@@ -1,0 +1,9 @@
+
+python-dateutil==2.9.0.post0
+pytz==2024.1
+referencing==0.33.0
+streamlit==1.32.2
+streamlit-authenticator==0.3.1
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.12
+
